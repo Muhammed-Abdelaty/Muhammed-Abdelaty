@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Abdelaty
 
-### 🛡️ Cybersecurity Engineer | Secure Web Developer | Security Automation
+### 🛡️ Cybersecurity Engineer | SOC Operations | Network Defense | Ethical Hacking | SIEM | Threat Detection | Python Security Automation | Cisco
 
 I'm a dedicated Cybersecurity Engineer with a passion for securing digital assets, optimizing SOC Operations, and building resilient network defenses. With a strong foundation in Network Defense & Ethical Hacking, I specialize in identifying vulnerabilities before they can be exploited and mitigating active threats in real-time.
 What I bring to your team:
@@ -9,7 +9,7 @@ Python Security Automation: Utilizing Python to script and automate repetitive s
 Network Security & Ethical Hacking: Applying hands-on hacking methodologies to penetration test systems and fortify network architectures against sophisticated cyber attacks.
 As a Cisco Certified professional, I bridge the gap between robust networking and airtight security. I thrive in fast-paced environments where protecting data integrity and business continuity is the top priority.
 
-My interests combine **Cybersecurity, Web Development, Network Security, and Security Automation**.
+My interests combine **Cybersecurity Engineer | SOC Operations | Network Defense | Ethical Hacking | SIEM | Threat Detection | Python Security Automation | Cisco**.
 
 ---
 
