@@ -2,7 +2,12 @@
 
 ### 🛡️ Cybersecurity Engineer | Secure Web Developer | Security Automation
 
-I am a Cybersecurity Engineer focused on building secure systems, analyzing security events, developing security tools, and applying security principles to web applications.
+I'm a dedicated Cybersecurity Engineer with a passion for securing digital assets, optimizing SOC Operations, and building resilient network defenses. With a strong foundation in Network Defense & Ethical Hacking, I specialize in identifying vulnerabilities before they can be exploited and mitigating active threats in real-time.
+What I bring to your team:
+Proactive Threat Detection & SIEM: Expert in monitoring, analyzing, and responding to security events using advanced SIEM tools to minimize downtime.
+Python Security Automation: Utilizing Python to script and automate repetitive security tasks, accelerate incident response, and enhance workflow efficiency.
+Network Security & Ethical Hacking: Applying hands-on hacking methodologies to penetration test systems and fortify network architectures against sophisticated cyber attacks.
+As a Cisco Certified professional, I bridge the gap between robust networking and airtight security. I thrive in fast-paced environments where protecting data integrity and business continuity is the top priority.
 
 My interests combine **Cybersecurity, Web Development, Network Security, and Security Automation**.
 
