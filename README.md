@@ -3,7 +3,7 @@
 # 🛡️ MUHAMMED ABDELATY 🛡️
 ### **Cybersecurity Engineer | Network Defense | Ethical Hacking | SOC Operations**
 
- القاهرة، مصر (Cairo, Egypt) • [Email](mailto:mohamedabdelati434@gmail.com) • [LinkedIn](https://linkedin.com/in/muhammed-abdelaty) • [GitHub](https://github.com/muhamedabdelaty)
+ (Cairo, Egypt) • [Email](mailto:mohamedabdelati434@gmail.com) • [LinkedIn](https://linkedin.com/in/muhammed-abdelaty) • [GitHub](https://github.com/muhamedabdelaty)
 
 ---
 
@@ -71,7 +71,7 @@ A results-driven **Cybersecurity Engineer** with a robust foundation in network 
 
 ## 🚀 Featured Security Projects
 
-### 🔍 [SecureCheck - Python-Based Security Auditor](https://github.com/muhamedabdelaty)
+### 🔍 [SecureCheck - Python-Based Security Auditor]([https://github.com/Muhammed-Abdelaty/SecureCheck/tree/main/SecureCheck/])
 > An automated, modular Python security tool designed for network reconnaissance and Data Loss Prevention (DLP).
 * **Network Module:** Performs multi-threaded port scanning (SSH, FTP, HTTP, RDP) to expose unauthorized services and vulnerabilities.
 * **DLP Engine:** Employs precise Regex pattern matching to scan system directories and catch exposed PII (emails, credit card numbers).
