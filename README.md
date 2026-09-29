@@ -3,7 +3,7 @@
 # 🛡️ MUHAMMED ABDELATY 🛡️
 ### **Cybersecurity Engineer | Network Defense | Ethical Hacking | SOC Operations**
 
-[البريد الإلكتروني](mailto:mohamedabdelati434@gmail.com) • [LinkedIn](https://linkedin.com/in/muhammed-abdelaty) • [GitHub](https://github.com/muhamedabdelaty) • 📍 القاهرة، مصر
+ القاهرة، مصر (Cairo, Egypt) • [Email](mailto:mohamedabdelati434@gmail.com) • [LinkedIn](https://linkedin.com/in/muhammed-abdelaty) • [GitHub](https://github.com/muhamedabdelaty)
 
 ---
 
@@ -15,43 +15,41 @@
 
 ---
 
-## 👨‍💻 نبذة عني (About Me)
+## 👨‍💻 Professional Summary
 
-مهندس أمن سيبراني ذو خلفية عملية قوية في **الدفاع عن الشبكات (Network Defense)**، **الاختراق الأخلاقي (Ethical Hacking)**، و**عمليات مركز إدارة الأمان (SOC Operations)**[span_2](start_span)[span_2](end_span). 
-* 🛠️ متخصص في أتمتة الأمن باستخدام **Python**، وأمن شبكات **Cisco**، وتقييم الثغرات، وتحليل سجلات الأحداث (SIEM)[span_3](start_span)[span_3](end_span).
-* 🎯 أدمج بين أساسيات هندسة البرمجيات والتفكير التحليلي لتصميم معمارية أمنية متكاملة (**Defense-in-Depth**) واكتشاف المخاطر الحقيقية[span_4](start_span)[span_4](end_span).
+A results-driven **Cybersecurity Engineer** with a robust foundation in network defense, ethical hacking, and SOC operations. Adept at designing defense-in-depth architectures, automating security workflows via Python, and identifying real-world security risks across complex network infrastructures. Combines technical depth with software engineering best practices to build resilient enterprise systems and perform proactive threat detection.
 
 ---
 
-## 🛠️ المهارات والتقنيات (Skills & Tools)
+## 🛠️ Core Competencies & Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ الأمن السيبراني والدفاع</h3>
+      <h3>🛡️ Cybersecurity & Operations</h3>
       <ul>
-        <li>Network Security & Defense-in-Depth[span_5](start_span)[span_5](end_span)</li>
-        <li>Ethical Hacking & Red Teaming[span_6](start_span)[span_6](end_span)</li>
-        <li>SOC Operations & Alert Triage[span_7](start_span)[span_7](end_span)</li>
-        <li>Vulnerability Assessment & PenTesting[span_8](start_span)[span_8](end_span)</li>
-        <li>Threat Detection & Incident Response[span_9](start_span)[span_9](end_span)</li>
-        <li>Cisco ASA Firewall & ACL Policies[span_10](start_span)[span_10](end_span)</li>
-        <li>VLAN Segmentation & Zero Trust[span_11](start_span)[span_11](end_span)</li>
-        <li>SIEM & Log Analysis[span_12](start_span)[span_12](end_span)</li>
+        <li><b>Network Defense & Security Architecture</b></li>
+        <li><b>Ethical Hacking & Red Teaming Tactics</b></li>
+        <li><b>SOC Operations & Alert Triage</b></li>
+        <li><b>Vulnerability Assessment & Penetration Testing</b></li>
+        <li><b>Threat Detection & Incident Response</b></li>
+        <li><b>Cisco ASA Firewall & Strict ACL Engineering</b></li>
+        <li><b>VLAN Segmentation & Zero Trust Frameworks</b></li>
+        <li><b>SIEM Deployment & Log Analysis</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 البرمجة والتقنيات</h3>
+      <h3>💻 Programming & Infrastructure</h3>
       <ul>
-        <li><b>اللغات:</b> Python (Security Scripting), SQL, PHP, JS, C++, Java, C#[span_13](start_span)[span_13](end_span)</li>
-        <li><b>الشبكات:</b> TCP/IP, DNS, DHCP, VPN, NAT, OSPF, BGP, EIGRP[span_14](start_span)[span_14](end_span)</li>
-        <li><b>الممارسات:</b> Secure Coding Practices[span_15](start_span)[span_15](end_span)</li>
+        <li><b>Languages:</b> Python (Security Automation), C++, SQL, Java, PHP, JavaScript, C#</li>
+        <li><b>Networking Protocols:</b> TCP/IP, DNS, DHCP, VPN, NAT, OSPF, BGP, EIGRP</li>
+        <li><b>Security Practices:</b> Secure Code Auditing, DLP, Threat Modeling</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### 🧰 الأدوات والبرامج (Tools & Technologies)
+### 🧰 Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
@@ -71,40 +69,40 @@
 
 ---
 
-## 🚀 المشاريع البارزة (Featured Projects)
+## 🚀 Featured Security Projects
 
 ### 🔍 [SecureCheck - Python-Based Security Auditor](https://github.com/muhamedabdelaty)
-> **أداة تدقيق أمني بلغة Python** مجهزة بمحركين لفحص استطلاع الشبكة وحماية البيانات من التسرب (DLP)[span_16](start_span)[span_16](end_span).
-* **Network Module:** فحص المنافذ المفتوحة (SSH, FTP, HTTP, RDP) واكتشاف الثغرات والخدمات غير المصرح بها[span_17](start_span)[span_17](end_span).
-* **DLP Module:** استخدام Regex لاكتشاف البيانات الحساسة (PII) المكشوفة مثل البريد الإلكتروني وبطاقات الائتمان في الملفات[span_18](start_span)[span_18](end_span).
-* **GUI:** واجهة مكتبية تفاعلية تم تصميمها باستخدام Tkinter وفق قواعد هندسة البرمجيات[span_19](start_span)[span_19](end_span).
+> An automated, modular Python security tool designed for network reconnaissance and Data Loss Prevention (DLP).
+* **Network Module:** Performs multi-threaded port scanning (SSH, FTP, HTTP, RDP) to expose unauthorized services and vulnerabilities.
+* **DLP Engine:** Employs precise Regex pattern matching to scan system directories and catch exposed PII (emails, credit card numbers).
+* **Architecture:** Features a responsive Tkinter GUI crafted with modular software engineering principles.
 
-### 🛡️ [Corporate Network Defense-in-Depth Implementation](https://github.com/muhamedabdelaty)
-> **محاكاة معمارية أمنية متكاملة لشبكة مؤسسية** تعتمد على استراتيجيات الدفاع عن قرب (Defense-in-Depth)[span_20](start_span)[span_20](end_span).
-* إعداد جدار حماية **Cisco ASA 5506-X** مع سياسات **ACL** صارمة لتصفية حركة المرور[span_21](start_span)[span_21](end_span).
-* تقسيم الشبكة عبر **VLAN Segmentation** للحد من التحرك الجانبي للتهديدات (Lateral Movement)[span_22](start_span)[span_22](end_span).
-* تطبيق **Port Security** ومراقبة سجلات الأحداث لاكتشاف محاولات الهجوم بالتخمين (Brute Force)[span_23](start_span)[span_23](end_span).
+### 🛡️ [Corporate Network Defense-in-Depth Architecture](https://github.com/muhamedabdelaty)
+> A fully hardened enterprise network simulation engineered using multi-layered defense practices.
+* Implemented **Cisco ASA 5506-X Firewall** rules and strict Access Control Lists (ACLs) to mitigate unauthorized perimeter access.
+* Configured **VLAN Segmentation** across departments (Employees, Servers, Guest Wi-Fi) to restrict lateral threat movement.
+* Enforced Layer 2 **Port Security** and analyzed network logs for real-time detection of brute-force exploitation attempts.
 
 ### 📡 [IoT-Based Smart Gas Leakage Detection System](https://github.com/muhamedabdelaty/IoT-Based-Smart-Gas-Leakage-Detection-Control-System)
-> **نظام أمان ذكي قائم على الإنترنت الأشياء (IoT)** للكشف الآلي عن تسرب الغاز والاستجابة الفورية[span_24](start_span)[span_24](end_span).
-* قيادة فريق تقني لتطوير النظام باستخدام متحكمات Arduino ومستشعرات الغاز[span_25](start_span)[span_25](end_span).
-* إرسال تنبيهات SMS لحظية عبر وحدات GSM عند تجاوز الحدود الخطر[span_26](start_span)[span_26](end_span).
-* نظام تحكم آلي للغلق الفوري لصمامات الطوارئ وتفعيل التهوية[span_27](start_span)[span_27](end_span) (*تقدير المشروع: ممتاز[span_28](start_span)[span_28](end_span)*).
+> An IoT safety platform engineered for real-time hazard detection and automated emergency containment.
+* Led a 9-member engineering team to design hardware-software integration using microcontrollers and specialized gas sensors.
+* Implemented GSM warning modules for instant SMS alerting upon critical threshold breaches.
+* Programmed safety actuators for immediate emergency valve shutdown and automated ventilation systems *(Graduation Project - Grade: Excellent)*.
 
 ---
 
-## 🎓 التدريب والشهادات (Training & Certifications)
+## 📜 Certifications & Technical Training
 
-* **Ethical Hacking (Red Teaming)** – Cisco Networking Academy *(In Progress)*[span_29](start_span)[span_29](end_span)
-* **Network Defense** – Cisco Networking Academy *(Apr 2026)*[span_30](start_span)[span_30](end_span)
-* **Introduction to Cybersecurity** – Cisco Networking Academy *(Jan 2026)*[span_31](start_span)[span_31](end_span)
-* **Digital Banking & Information Security Intern** – Banque Misr (Rowad Program) *(2021)*[span_32](start_span)[span_32](end_span)
-* **Software Development & Foundations Trainee** – ATEC *(2019 - 2023)*[span_33](start_span)[span_33](end_span)
-* **B.Sc. in Management Information Systems (MIS)** – El Obour High Institute[span_34](start_span)[span_34](end_span)
+* **Ethical Hacking (Red Teaming)** — Cisco Networking Academy *(In Progress)*
+* **Network Defense** — Cisco Networking Academy *(Apr 2026)*
+* **Introduction to Cybersecurity** — Cisco Networking Academy *(Jan 2026)*
+* **Digital Banking & Information Security Intern** — Banque Misr (Rowad Program)
+* **Software Development & IT Essentials** — Al-Obour Training & Education Center (ATEC)
+* **B.Sc. in Management Information Systems (MIS)** — El Obour High Institute
 
 ---
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhamedabdelaty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -120,9 +118,11 @@
 ---
 
 <div align="center">
-  
-**📫 تواصل معي:**  
+
+### 🤝 Connect with Me
+
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/muhammed-abdelaty)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohamedabdelati434@gmail.com)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/muhamedabdelaty)
 
 </div>
